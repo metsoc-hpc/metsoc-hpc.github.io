@@ -10,6 +10,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family:"Hiragino Kaku Gothic Pro", Meiryo, sans-serif;
     font-weight:lighter;
+    line-height: 1.1em
 }
 a:link, a:visited {
     text-decoration:none;
